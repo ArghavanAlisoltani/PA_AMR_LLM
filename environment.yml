@@ -1,0 +1,32 @@
+name: amr-protein-llm
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - seaborn
+  - biopython
+  - pyyaml
+  - tqdm
+  - jupyterlab
+  - notebook
+  - umap-learn
+  - xgboost
+  - mmseqs2
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+      - transformers>=4.39
+      - peft>=0.10
+      - accelerate>=0.28
+      - datasets>=2.18
+      - safetensors

@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+biopython
+pyyaml
+tqdm
+umap-learn
+xgboost
+torch
+transformers>=4.39
+peft>=0.10
+accelerate>=0.28
+datasets>=2.18
+safetensors
