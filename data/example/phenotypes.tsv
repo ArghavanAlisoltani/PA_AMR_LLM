@@ -1,0 +1,5 @@
+isolate_id	phenotype	antibiotic
+iso_001	R	imipenem
+iso_002	S	imipenem
+iso_003	R	imipenem
+iso_004	S	imipenem
