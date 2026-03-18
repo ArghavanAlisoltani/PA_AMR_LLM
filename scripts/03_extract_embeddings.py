@@ -15,6 +15,7 @@ Notes:
 - Uses mean pooling over amino-acid token embeddings, excluding BOS/EOS tokens.
 - Supports CPU or GPU.
 - Batching is the main source of acceleration.
+
 """
 
 from __future__ import annotations
