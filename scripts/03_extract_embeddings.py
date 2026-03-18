@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 """
-
 03_extract_embeddings.py
 
 Extract ESM-2 embeddings for one protein FASTA file.
