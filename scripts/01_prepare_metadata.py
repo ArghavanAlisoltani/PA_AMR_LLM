@@ -5,6 +5,7 @@
 
 Read a protein FASTA and a phenotype table, normalize isolate IDs,
 merge both, and write a clean metadata table for downstream steps.
+
 """
 
 from __future__ import annotations
